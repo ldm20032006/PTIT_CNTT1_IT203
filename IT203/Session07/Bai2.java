@@ -16,7 +16,7 @@ public class Bai2 {
         System.out.println("a " + a);
         System.out.println("b " + b);
         // Biến tham chiếu
-        Student s1 = new Student("son");
+        Student s1 = new Student("minh");
         Student s2 = s1;
         s2.studentName = "son bui";
         System.out.println("Bien tham chieu");
