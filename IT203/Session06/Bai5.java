@@ -12,7 +12,7 @@ class Book {
 
 public class Bai5 {
     public static void main(String[] args) {
-        Book book = new Book("Tu duy nguoc", "Son Bui", "Dinh cao tri tue");
+        Book book = new Book("Tu duy nguoc", "Duy Minh", "Dinh cao tri tue");
         System.out.println(book.title);
     }
 }

@@ -22,8 +22,9 @@ class Student {
 
 public class Bai1 {
     public static void main(String[] args) {
-        Student student1 = new Student("sonbui1", "Bui Thai Son", "2006", 10);
-        Student student2 = new Student("sonbui2", "Son Bui", "2006", 9);
+        Student student1 = new Student("leminh1", "Le Duy Minh", "2006", 10);
+        Student student2 = new Student("leminh2", "Le Minh", "2006", 9);
+        Student student2 = new Student("leminh2", "Le Minh", "2006", 9);
         student1.getInfor();
         System.out.println();
         student2.getInfor();

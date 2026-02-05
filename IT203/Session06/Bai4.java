@@ -29,9 +29,9 @@ public class Bai4 {
     public static void main(String[] args) {
         Employee e = new Employee();
         e.getInfor();
-        Employee e2 = new Employee(1, "Son");
+        Employee e2 = new Employee(1, "Minh");
         e2.getInfor();
-        Employee e3 = new Employee(2, "Bui Son", 1000.123);
+        Employee e3 = new Employee(2, "Le Minh", 1000.123);
         e3.getInfor();
     }
 }

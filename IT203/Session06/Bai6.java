@@ -54,8 +54,8 @@ class User {
 
 public class Bai6 {
     public static void main(String[] args) {
-        User u = new User(1, "son", "son@gmail.com", "123");
-        u.setEmail("son");
+        User u = new User(1, "minh", "minh@gmail.com", "123");
+        u.setEmail("minh");
         u.setPassword("");
     }
 }

@@ -21,7 +21,7 @@ class Account {
 
 public class Bai2 {
     public static void main(String[] args) {
-        Account ac = new Account("sonbui", "sonbui@gmail.com", "sonbui");
+        Account ac = new Account("leminh", "minhle@gmail.com", "leminh");
         ac.getInfor();
         ac.changePassword("sonbui123");
         System.out.println();
